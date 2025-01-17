@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/31c97e7a-827a-44f5-a851-d527d3a7b4cb
+
 # 🎄 Christmas App 🎅
 Welcome to Christmas App, a festive web application designed to spread holiday cheer! This app is packed with holiday-themed features and a modern design to make your Christmas celebrations even more magical.
 
