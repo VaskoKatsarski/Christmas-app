@@ -16,7 +16,7 @@ Welcome to Christmas App, a festive web application designed to spread holiday c
 - Google Fonts: Leveraging the "Anton" font for a modern, holiday-inspired look.
 ## Screenshots 📸
 Here’s a sneak peek of the application:
-_ Sign-Up Form
+- Sign-Up Form
 A clean and interactive form for users to join the holiday fun.
 - Holiday Info Section
 Learn about Christmas traditions in an engaging and festive way.
