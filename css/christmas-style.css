@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    html{
+        font-size: 62.5%;
+    }
+    body{
+    background-image: url(../img/6.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    }
+    /* Navigation Bar */
+    nav{
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: flex-end;
+    padding: 0 70px;
+    position: absolute;
+    width: 100%;
+    }
+    .menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    transition: 0.4s;
+    }
+    .menu a:first-child{
+    background-color: brown;
+    color: white;
+    }
+    .menu a:nth-child(6){
+    background-color: brown;
+    color: white;
+    }
+    .menu a:hover{
+    background-color: brown;
+    color: white;
+    }
+    .hero-wrapper{
+    width: 50%;
+    }
+    .hero-wrapper > img{
+    position: absolute;
+    right: 0;
+    box-shadow: 0 0 5px 5px #fff;
+    }
+    #htext {
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 150px;
+    position:absolute;
+    left: 34rem;
+    }
+    #htext h1{
+    text-shadow: 2px 2px black;
+    font-family: 'Anton';font-size: 18px;
+    color: #fff;
+    font-size: 60px;
+    }
+    #htext p{
+    text-shadow: 2px 2px black;
+    font-family: 'Anton';font-size: 18px;
+    color: #fff;
+    font-size: 20px;
+    }
+    .container-btn {
+    width: 60%;
+    text-decoration: none;
+    text-align: center;
+    background: brown;
+    border: 1px solid brown;
+    color: #fff;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius:5px;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: .4s all;
+    font-weight: bold;
+    }
+    .container-btn a {
+    text-decoration:none;
+    color: white;
+    }
+    .container-btn:hover{
+    color: brown;
+    background: transparent;
+    border: 1px solid brown;
+    }
